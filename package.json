@@ -1,0 +1,18 @@
+{
+  "name": "projeto-tcc",
+  "version": "1.0.0",
+  "description": "Projeto TCC do curso Técnico Desenvolvimento Web e Mobile da Escola do Futuro Sarah Luísa Lemos Kubitschek.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "PROJETO-TCC"
+  },
+  "author": "lUIZ SILVA E FABRICIO",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
