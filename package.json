@@ -2,7 +2,7 @@
   "name": "projeto-tcc",
   "version": "1.0.0",
   "description": "Projeto TCC do curso Técnico Desenvolvimento Web e Mobile da Escola do Futuro Sarah Luísa Lemos Kubitschek.",
-  "main": "app.js",
+  "main": "./src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
